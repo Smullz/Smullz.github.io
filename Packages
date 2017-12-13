@@ -1,0 +1,15 @@
+	1.	Package: com.cmullz.ACE 
+	2.	Version: 0.0.q 
+	3.	Architecture: iphoneos-arm 
+	4.	Maintainer: Smullz <email@gmail.com> 
+	5.	Depends: ace, abc 
+	6.	Filename: /ACE.deb 
+	7.	Size: 15340506  
+	8.	MD5sum: 73aef2450f54f6d3848b7f951c6280a8 
+	9.	SHA1: 36aa78e6a67586ec2439f392602bc31209eddf73
+
+	10.	SHA256: 97b1ca431ef3e22b42811d3572359c93635de0fa1dd8d0ee8758daac594847c4 
+	11.	Section: Themes 
+	12.	Description: Private 
+	13.	Author: Ace El <email@gmail.com> 
+	14.	Name: ACE 
